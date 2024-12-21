@@ -5,8 +5,8 @@
 		"domain": "facebook.com",
 		"path": "/login/device-based/",
 		"hostOnly": false,
-		"creation": "2024-12-21T14:05:39.382Z",
-		"lastAccessed": "2024-12-21T14:05:39.390Z"
+		"creation": "2024-12-21T16:07:14.889Z",
+		"lastAccessed": "2024-12-21T16:07:14.889Z"
 	},
 	{
 		"key": "datr",
@@ -14,8 +14,8 @@
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2024-12-21T14:05:39.390Z",
-		"lastAccessed": "2024-12-21T14:05:39.390Z"
+		"creation": "2024-12-21T16:07:14.889Z",
+		"lastAccessed": "2024-12-21T16:07:14.889Z"
 	},
 	{
 		"key": "sb",
@@ -23,8 +23,8 @@
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2024-12-21T14:05:39.390Z",
-		"lastAccessed": "2024-12-21T14:05:39.390Z"
+		"creation": "2024-12-21T16:07:14.889Z",
+		"lastAccessed": "2024-12-21T16:07:14.889Z"
 	},
 	{
 		"key": "vpd",
@@ -32,35 +32,8 @@
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2024-12-21T14:05:39.390Z",
-		"lastAccessed": "2024-12-21T14:05:39.390Z"
-	},
-	{
-		"key": "m_pixel_ratio",
-		"value": "1.875",
-		"domain": "facebook.com",
-		"path": "/",
-		"hostOnly": false,
-		"creation": "2024-12-21T14:05:39.390Z",
-		"lastAccessed": "2024-12-21T14:05:39.390Z"
-	},
-	{
-		"key": "x-referer",
-		"value": "eyJyIjoiL2NoZWNrcG9pbnQvMTUwMTA5MjgyMzUyNTI4Mi9sb2dvdXQvP25leHQ9aHR0cHMlM0ElMkYlMkZtLmZhY2Vib29rLmNvbSUyRmxvZ2luJTJGc2F2ZS1kZXZpY2UlMkYiLCJoIjoiL2NoZWNrcG9pbnQvMTUwMTA5MjgyMzUyNTI4Mi9sb2dvdXQvP25leHQ9aHR0cHMlM0ElMkYlMkZtLmZhY2Vib29rLmNvbSUyRmxvZ2luJTJGc2F2ZS1kZXZpY2UlMkYiLCJzIjoibSJ9",
-		"domain": "facebook.com",
-		"path": "/",
-		"hostOnly": false,
-		"creation": "2024-12-21T14:05:39.390Z",
-		"lastAccessed": "2024-12-21T14:05:39.390Z"
-	},
-	{
-		"key": "wd",
-		"value": "384x730",
-		"domain": "facebook.com",
-		"path": "/",
-		"hostOnly": false,
-		"creation": "2024-12-21T14:05:39.390Z",
-		"lastAccessed": "2024-12-21T14:05:39.390Z"
+		"creation": "2024-12-21T16:07:14.889Z",
+		"lastAccessed": "2024-12-21T16:07:14.889Z"
 	},
 	{
 		"key": "c_user",
@@ -68,8 +41,8 @@
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2024-12-21T14:05:39.390Z",
-		"lastAccessed": "2024-12-21T14:05:39.390Z"
+		"creation": "2024-12-21T16:07:14.889Z",
+		"lastAccessed": "2024-12-21T16:07:14.889Z"
 	},
 	{
 		"key": "fr",
@@ -77,8 +50,8 @@
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2024-12-21T14:05:39.390Z",
-		"lastAccessed": "2024-12-21T14:05:39.390Z"
+		"creation": "2024-12-21T16:07:14.889Z",
+		"lastAccessed": "2024-12-21T16:07:14.889Z"
 	},
 	{
 		"key": "xs",
@@ -86,25 +59,43 @@
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2024-12-21T14:05:39.390Z",
-		"lastAccessed": "2024-12-21T14:05:39.390Z"
+		"creation": "2024-12-21T16:07:14.890Z",
+		"lastAccessed": "2024-12-21T16:07:14.890Z"
+	},
+	{
+		"key": "m_pixel_ratio",
+		"value": "1.875",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-12-21T16:07:14.890Z",
+		"lastAccessed": "2024-12-21T16:07:14.890Z"
+	},
+	{
+		"key": "wd",
+		"value": "384x730",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-12-21T16:07:14.890Z",
+		"lastAccessed": "2024-12-21T16:07:14.890Z"
 	},
 	{
 		"key": "fbl_st",
-		"value": "101325021%3BT%3A28913164",
+		"value": "101026644%3BT%3A28913287",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2024-12-21T14:05:39.390Z",
-		"lastAccessed": "2024-12-21T14:05:39.390Z"
+		"creation": "2024-12-21T16:07:14.890Z",
+		"lastAccessed": "2024-12-21T16:07:14.890Z"
 	},
 	{
 		"key": "wl_cbv",
-		"value": "v2%3Bclient_version%3A2701%3Btimestamp%3A1734789885",
+		"value": "v2%3Bclient_version%3A2701%3Btimestamp%3A1734797224",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2024-12-21T14:05:39.390Z",
-		"lastAccessed": "2024-12-21T14:05:39.390Z"
+		"creation": "2024-12-21T16:07:14.890Z",
+		"lastAccessed": "2024-12-21T16:07:14.890Z"
 	}
 ]
